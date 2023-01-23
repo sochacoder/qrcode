@@ -1,0 +1,11 @@
+@media (max-width: 375px){
+    .fundo{
+        max-width: 375px;
+    }
+
+    .container{
+        flex-wrap: nowrap;
+    }
+
+
+}
